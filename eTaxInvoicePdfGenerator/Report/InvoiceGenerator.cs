@@ -130,6 +130,7 @@ namespace eTaxInvoicePdfGenerator.Report
                     string encoding = string.Empty;
                     string extension = string.Empty;
 
+                    // TODO Microsoft.Reporting.WinForms.ReportViewer no longer supported.
                     ReportViewer reportViewer = new ReportViewer();
                     reportViewer.LocalReport.DataSources.Add(dataSource);
                         reportViewer.LocalReport.ReportPath = absolutepath+"Report\\tax_multipage_return.rdlc";
@@ -219,6 +220,7 @@ namespace eTaxInvoicePdfGenerator.Report
                     string encoding = string.Empty;
                     string extension = string.Empty;
 
+                    // TODO Microsoft.Reporting.WinForms.ReportViewer no longer supported.
                     ReportViewer reportViewer = new ReportViewer();
 
                     reportViewer.LocalReport.DataSources.Add(dataSource);
