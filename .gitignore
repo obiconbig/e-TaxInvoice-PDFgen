@@ -4,3 +4,5 @@ eTaxInvoicePdfGenerator/bin/
 eTaxInvoicePdfGenerator/obj/
 eTaxInvoicePdfGenerator/publish/
 packages/
+/eTaxInvoicePdfGenerate/obj/Debug/net8.0/eTaxInvoicePdfGenerate.AssemblyInfoInputs.cache
+/eTaxInvoicePdfGenerate/obj/Debug/net8.0/eTaxInvoicePdfGenerate.AssemblyInfo.cs
