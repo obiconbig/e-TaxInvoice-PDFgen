@@ -1,0 +1,13 @@
+D:\Github\e-TaxInvoice-PDFgen\eTaxInvoicePdfGenerate\bin\Debug\net8.0\eTaxInvoicePdfGenerate.deps.json
+D:\Github\e-TaxInvoice-PDFgen\eTaxInvoicePdfGenerate\bin\Debug\net8.0\eTaxInvoicePdfGenerate.dll
+D:\Github\e-TaxInvoice-PDFgen\eTaxInvoicePdfGenerate\bin\Debug\net8.0\eTaxInvoicePdfGenerate.pdb
+D:\Github\e-TaxInvoice-PDFgen\eTaxInvoicePdfGenerate\obj\Debug\net8.0\eTaxInvoicePdfGenerate.csproj.AssemblyReference.cache
+D:\Github\e-TaxInvoice-PDFgen\eTaxInvoicePdfGenerate\obj\Debug\net8.0\eTaxInvoicePdfGenerate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\e-TaxInvoice-PDFgen\eTaxInvoicePdfGenerate\obj\Debug\net8.0\eTaxInvoicePdfGenerate.AssemblyInfoInputs.cache
+D:\Github\e-TaxInvoice-PDFgen\eTaxInvoicePdfGenerate\obj\Debug\net8.0\eTaxInvoicePdfGenerate.AssemblyInfo.cs
+D:\Github\e-TaxInvoice-PDFgen\eTaxInvoicePdfGenerate\obj\Debug\net8.0\eTaxInvoicePdfGenerate.csproj.CoreCompileInputs.cache
+D:\Github\e-TaxInvoice-PDFgen\eTaxInvoicePdfGenerate\obj\Debug\net8.0\eTaxInvoicePdfGenerate.sourcelink.json
+D:\Github\e-TaxInvoice-PDFgen\eTaxInvoicePdfGenerate\obj\Debug\net8.0\eTaxInvoicePdfGenerate.dll
+D:\Github\e-TaxInvoice-PDFgen\eTaxInvoicePdfGenerate\obj\Debug\net8.0\refint\eTaxInvoicePdfGenerate.dll
+D:\Github\e-TaxInvoice-PDFgen\eTaxInvoicePdfGenerate\obj\Debug\net8.0\eTaxInvoicePdfGenerate.pdb
+D:\Github\e-TaxInvoice-PDFgen\eTaxInvoicePdfGenerate\obj\Debug\net8.0\ref\eTaxInvoicePdfGenerate.dll

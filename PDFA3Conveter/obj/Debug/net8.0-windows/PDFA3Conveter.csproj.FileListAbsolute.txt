@@ -1,0 +1,17 @@
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\bin\Debug\net8.0-windows\PDFA3Conveter.exe
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\bin\Debug\net8.0-windows\PDFA3Conveter.deps.json
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\bin\Debug\net8.0-windows\PDFA3Conveter.runtimeconfig.json
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\bin\Debug\net8.0-windows\PDFA3Conveter.dll
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\bin\Debug\net8.0-windows\PDFA3Conveter.pdb
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\obj\Debug\net8.0-windows\PDFA3Conveter.Form1.resources
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\obj\Debug\net8.0-windows\PDFA3Conveter.csproj.GenerateResource.cache
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\obj\Debug\net8.0-windows\PDFA3Conveter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\obj\Debug\net8.0-windows\PDFA3Conveter.AssemblyInfoInputs.cache
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\obj\Debug\net8.0-windows\PDFA3Conveter.AssemblyInfo.cs
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\obj\Debug\net8.0-windows\PDFA3Conveter.csproj.CoreCompileInputs.cache
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\obj\Debug\net8.0-windows\PDFA3Conveter.sourcelink.json
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\obj\Debug\net8.0-windows\PDFA3Conveter.dll
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\obj\Debug\net8.0-windows\refint\PDFA3Conveter.dll
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\obj\Debug\net8.0-windows\PDFA3Conveter.pdb
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\obj\Debug\net8.0-windows\PDFA3Conveter.genruntimeconfig.cache
+D:\Github\e-TaxInvoice-PDFgen\PDFA3Conveter\obj\Debug\net8.0-windows\ref\PDFA3Conveter.dll

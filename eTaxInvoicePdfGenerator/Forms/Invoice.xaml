@@ -6,21 +6,21 @@
         xmlns:local="clr-namespace:eTaxInvoicePdfGenerator.Forms"
         mc:Ignorable="d"
         DataContext="{Binding RelativeSource={RelativeSource Self}}"
-        Title="สร้างใบกำกับภาษี" Height="700" Width="1024" Loaded="Window_Loaded" Closed="Window_Closed" WindowStartupLocation="CenterScreen" ScrollViewer.VerticalScrollBarVisibility="Auto" ResizeMode="NoResize" WindowStyle="None" Style="{StaticResource MainWindow}">
+        Title="สร้างใบกำกับภาษี" Height="1380" Width="1024" Loaded="Window_Loaded" Closed="Window_Closed" WindowStartupLocation="CenterScreen" ScrollViewer.VerticalScrollBarVisibility="Auto" ResizeMode="NoResize" WindowStyle="None" Style="{StaticResource MainWindow}">
     <Window.Resources>
         <ImageBrush x:Key="Background" ImageSource="/eTaxInvoicePdfGenerator;component/in/elements/tax_invoice_BG.jpg" />
     </Window.Resources>
     <Window.Background>
         <StaticResource ResourceKey="Background" />
     </Window.Background>
-    <Grid>
+    <Grid Margin="0,0,0,6">
         <Image x:Name="image" HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Top" Source="/eTaxInvoicePdfGenerator;component/in/elements/titile.png"/>
         <Image x:Name="image1" HorizontalAlignment="Left" Margin="0,160,0,0" VerticalAlignment="Top" Source="/eTaxInvoicePdfGenerator;component/in/elements/tax_invoice_txtleft.png" Width="296" Height="90"/>
         <Button x:Name="shutdownBtn" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Margin="0,0,0,0" HorizontalAlignment="Right" VerticalAlignment="Top" Width="75" Click="shutdownBtn_Click">
             <Image Source="/eTaxInvoicePdfGenerator;component/in/elements/btn_close@2x.png" Style="{StaticResource imageBtn}"/>
         </Button>
-        <Grid Margin="0,140,0,20">
-            <ScrollViewer>
+        <Grid Margin="0,140,0,555">
+            <ScrollViewer HorizontalAlignment="Center" Width="948" Margin="0,0,0,-550">
                 <Grid>
                     <Grid.RowDefinitions>
                         <RowDefinition Height="Auto" />
